@@ -23,6 +23,12 @@ To download and work on this project you will need to have `git` installed on yo
 
 [https://www.atlassian.com/git/tutorials/install-git](https://www.atlassian.com/git/tutorials/install-git)
 
+Once you have git installed you will need to run a single command in your terminal 
+
+`git clone git@github.com:holidayextras/learn-to-code.git`
+
+Alternatlively you can use Github Desktop available here: [https://desktop.github.com/](https://desktop.github.com/)
+
 ## Running Locally
 
 To preview this project locally is nice and simple, open the folder on your laptop and simply open the `index.html` in your browser of choice.
